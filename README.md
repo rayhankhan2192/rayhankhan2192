@@ -1,2 +1,2 @@
-- 👋 Hi, I’m RAYHAN KHAN
-- 
+- 👋 Hi, I’m RAYHAN KHAN.
+- I am currently studying Software Engineering at DAFFODIL INTERNATIONAL UNIVERSITY.
